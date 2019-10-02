@@ -19,5 +19,5 @@ setup(name="pystortion",
                         "uhelpers",  # from universal_helpers
                         ],
     dependency_links = [
-        "git+ssh://git@grit.stsci.edu/jsahlmann/universal_helpers.git#egg=universal_helpers-0.2.2"]
+        "git+ssh://git@grit.stsci.edu/jsahlmann/universal_helpers.git#egg=universal_helpers-0.2.3"]
     )
